@@ -21,11 +21,15 @@ Click Here: [Deployment](http://pratham102.pythonanywhere.com/)
 
 To get started with this project, you'll need to have Python 3.x installed on your machine. Then, follow these steps:
 
+Additionally, you can refer to the `report.pdf` file for screenshots of the app's user interface. The report includes detailed information about the project, its features, and how to use it.
+
 1. Clone the repository to your local machine using `git clone https://github.com/pratham-404/BloodBuddy.git`.
 2. Install the required packages by running `pip install -r requirements.txt`.
 3. Create a superuser by running `python manage.py createsuperuser`.
 4. Run the development server by running `python manage.py runserver`.
 5. Navigate to `http://localhost:8000` in your web browser to see the app in action! 🌐
+
+Please note that the `report.pdf` file contains the default login credentials for the Django admin panel. It is recommended that you change these credentials once you have logged in for the first time.
 
 ## 🤝 Contributing
 Contributions to BloodBuddy are welcome! If you'd like to contribute, please create a pull request with your proposed changes.
