@@ -33,3 +33,7 @@ Please note that the `report.pdf` file contains the default login credentials fo
 
 ## 🤝 Contributing
 Contributions to BloodBuddy are welcome! If you'd like to contribute, please create a pull request with your proposed changes.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
